@@ -1,0 +1,50 @@
+body{
+    background-image: url("pink-watercolour-textured-background-with-gold-glitter-traces.jpg");
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color:rgb(220, 167, 149);
+
+
+}
+#start
+{
+font-size: 18px;
+
+}
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    border: 2px solid white;
+    box-shadow: 10px 10px 10px salmon;
+    border-color: black;
+    width: 100px;
+    height:100px;
+    margin-top:30px;
+    
+
+}
+#status , #number_of_objects, #start_model
+{
+    font-size: 18px;
+
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(120, 71, 58);
+    bottom: 0;
+    width: 100%;
+    background-color: whitesmoke;
+    line-height: 3;
+    text-align: center;
+
+
+}
